@@ -1,0 +1,27 @@
+message: Please cite this software using these metadata.
+title:
+authors:
+  - family-names: de Lima e Souza
+    given-names: Bruno
+  - family-names: Santana Santos
+    given-names: Erick Patrick
+  - family-names: Santana dos Santos
+    given-names: Jaciane
+  - family-names: Freitas Teixeira Leite
+    given-names: João Paulo
+  - family-names: de Jesus Brandão
+    given-names: Luilson
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vilela Cardoso
+    given-names: Leonardo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: 
+    given-names: 
+keywords:
+  - ecommerce
+  - application
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e4-proj-dad-t3-fragaessetempero.git
+version: 1.0.0
+date-released: 2024-09-16
